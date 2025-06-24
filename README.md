@@ -1,4 +1,4 @@
-# 🛠️ 5-Day PHP Training Plan (Basic to Advanced with MVC, File Upload, HTML/CSS/JS)
+# 🛠️ 5-Day PHP Training Plan (Basic to Advanced with MVC)
 
 ## 📍 Overview
 
