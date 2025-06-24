@@ -1,4 +1,4 @@
-# 🏗️ Drupal 10 Site Building Training Plan (Week 1)
+# 🏗️ Week 2: Drupal 10 Site Building
 
 **🎯 Use Case:** Build a fully functional “Event Management” site using Drupal Admin UI — no custom code  
 **👥 Audience:** Beginner to Intermediate Drupal users  
