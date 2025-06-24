@@ -1,4 +1,4 @@
-# 🛠️ 5-Day PHP Training Plan (Basic to Advanced with MVC)
+# 🛠️ Week 1: PHP Training Plan (Basic to Advanced with MVC)
 
 ## 📍 Overview
 
